@@ -8,9 +8,9 @@
     <a href="https://stbhg5.tistory.com/849">CI/CD 구축할 때 사용할 Github Actions</a><br/>
     <a href="https://stbhg5.tistory.com/852">Github Actions를 활용한 전체적인 CI/CD 흐름</a><br/>
     <a href="https://stbhg5.tistory.com/856">[실습] Github Actions 기본 문법 정리</a><br/>
-    <br/>
+    <br/><br/>
 
 <h2>2. 백엔드(Spring Boot) 프로젝트에 CI/CD 적용하기<h2/>
     <a href="https://stbhg5.tistory.com/859">방법 1 - 개인 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Github Actions)</a><br/>
     <a href=""></a><br/>
-    <br/>
+    <br/><br/>
