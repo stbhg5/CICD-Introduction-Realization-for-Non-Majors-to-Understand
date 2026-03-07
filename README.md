@@ -14,9 +14,12 @@
     <a href="https://stbhg5.tistory.com/859">방법 1 - 개인 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Github Actions)</a><br/>
     <a href="https://stbhg5.tistory.com/865">[실습] 개인 프로젝트에서 많이 쓰는 CICD 구축 방법 - 1</a><br/>
     <a href="https://stbhg5.tistory.com/869">[실습] 개인 프로젝트에서 많이 쓰는 CICD 구축 방법 - 2</a><br/>
+    <a href="https://stbhg5.tistory.com/874">[실습] .gitignore에 추가된 application.yml을 CI/CD로 관리하기</a><br/>
+    <a href="https://stbhg5.tistory.com/875">방법 2 - 일반 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Github Actions, SCP)</a><br/>
+    <a href=""></a><br/>
     <br/><br/>
 
-<h2>2. 백엔드(Spring Boot) 프로젝트에 CI/CD 적용하기<h2/>
+<h2><h2/>
     <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
