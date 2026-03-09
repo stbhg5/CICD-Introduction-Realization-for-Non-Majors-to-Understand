@@ -17,6 +17,7 @@
     <a href="https://stbhg5.tistory.com/874">[실습] .gitignore에 추가된 application.yml을 CI/CD로 관리하기</a><br/>
     <a href="https://stbhg5.tistory.com/875">방법 2 - 일반 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Github Actions, SCP)</a><br/>
     <a href="https://stbhg5.tistory.com/878">[실습] 일반 프로젝트에서 많이 쓰는 CI/CD 구축 방법</a><br/>
+    <a href="https://stbhg5.tistory.com/883">방법 3 - 확장성을 고려한 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Code Deploy)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
