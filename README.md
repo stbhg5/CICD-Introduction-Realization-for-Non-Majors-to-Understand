@@ -18,6 +18,7 @@
     <a href="https://stbhg5.tistory.com/875">방법 2 - 일반 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Github Actions, SCP)</a><br/>
     <a href="https://stbhg5.tistory.com/878">[실습] 일반 프로젝트에서 많이 쓰는 CI/CD 구축 방법</a><br/>
     <a href="https://stbhg5.tistory.com/883">방법 3 - 확장성을 고려한 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Code Deploy)</a><br/>
+    <a href="https://stbhg5.tistory.com/895">[실습] CodeDeploy 셋팅 / IAM 설정</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
