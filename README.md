@@ -19,7 +19,7 @@
     <a href="https://stbhg5.tistory.com/878">[실습] 일반 프로젝트에서 많이 쓰는 CI/CD 구축 방법</a><br/>
     <a href="https://stbhg5.tistory.com/883">방법 3 - 확장성을 고려한 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Code Deploy)</a><br/>
     <a href="https://stbhg5.tistory.com/895">[실습] CodeDeploy 셋팅 / IAM 설정</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/897">[실습] 확장성을 고려한 프로젝트에서 많이 쓰는 CI/CD 구축 방법</a><br/>
     <br/><br/>
 
 <h2><h2/>
