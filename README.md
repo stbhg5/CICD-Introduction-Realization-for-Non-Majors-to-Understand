@@ -22,6 +22,12 @@
     <a href="https://stbhg5.tistory.com/897">[실습] 확장성을 고려한 프로젝트에서 많이 쓰는 CI/CD 구축 방법</a><br/>
     <br/><br/>
 
+<h2>3. 백엔드(Nest.js) 프로젝트에 CI/CD 적용하기<h2/>
+    <a href=""></a><br/>
+    <a href=""></a><br/>
+    <a href=""></a><br/>
+    <br/><br/>
+
 <h2><h2/>
     <a href=""></a><br/>
     <a href=""></a><br/>
