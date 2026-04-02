@@ -24,7 +24,7 @@
 
 <h2>3. 백엔드(Nest.js) 프로젝트에 CI/CD 적용하기<h2/>
     <a href="https://stbhg5.tistory.com/912">[실습] 개인 프로젝트에서 많이 쓰는 CICD 구축 방법 - 1 (Nest.js)</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/918">[실습] 개인 프로젝트에서 많이 쓰는 CICD 구축 방법 - 2 (Nest.js)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
