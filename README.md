@@ -26,6 +26,7 @@
     <a href="https://stbhg5.tistory.com/912">[실습] 개인 프로젝트에서 많이 쓰는 CICD 구축 방법 - 1 (Nest.js)</a><br/>
     <a href="https://stbhg5.tistory.com/918">[실습] 개인 프로젝트에서 많이 쓰는 CICD 구축 방법 - 2 (Nest.js)</a><br/>
     <a href="https://stbhg5.tistory.com/934">[실습] .gitignore에 추가된 .env을 CICD로 관리하기 (Nest.js)</a><br/>
+    <a href="https://stbhg5.tistory.com/936">[실습] 일반 프로젝트에서 많이 쓰는 CICD 구축 방법 (Nest.js)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
