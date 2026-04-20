@@ -28,6 +28,12 @@
     <a href="https://stbhg5.tistory.com/934">[실습] .gitignore에 추가된 .env을 CICD로 관리하기 (Nest.js)</a><br/>
     <a href="https://stbhg5.tistory.com/936">[실습] 일반 프로젝트에서 많이 쓰는 CICD 구축 방법 (Nest.js)</a><br/>
     <a href="https://stbhg5.tistory.com/938">[실습] CodeDeploy 셋팅 / IAM 설정 (Nest.js)</a><br/>
+    <a href="https://stbhg5.tistory.com/943">[실습] 확장성을 고려한 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Nest.js)</a><br/>
+    <br/><br/>
+
+<h2><h2/>
+    <a href=""></a><br/>
+    <a href=""></a><br/>
     <a href=""></a><br/>
     <br/><br/>
 
