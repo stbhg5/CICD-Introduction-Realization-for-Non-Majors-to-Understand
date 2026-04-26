@@ -34,7 +34,7 @@
 <h2>4. 웹 프론트엔드 프로젝트에 CI/CD 적용하기<h2/>
     <a href="https://stbhg5.tistory.com/945">Case 1 - Next.js 프로젝트에 CI/CD 적용하기 (Vercel)</a><br/>
     <a href="https://stbhg5.tistory.com/951">Case 2 - 일반 웹 프로젝트 구조에 CI/CD 적용하기 (S3, Cloudfront)</a><br/>
-    <a href=""></a><br/>
+    <a href="https://stbhg5.tistory.com/952">비용 나가지 않게 사용한 AWS 서비스들 정리하기</a><br/>
     <br/><br/>
 
 <h2><h2/>
