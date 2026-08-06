@@ -50,5 +50,6 @@
     <a href="https://stbhg5.tistory.com/1116">[실습] EC2에 Docker 설치, ECR 셋팅하기 (Nest.js)</a><br/>
     <a href="https://stbhg5.tistory.com/1136">[실습] 컨테이너 기반의 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Nest.js)</a><br/>
     <a href="https://stbhg5.tistory.com/1139">[실습] CodeDeploy 셋팅 / IAM 설정 (컨테이너 기반) (Nest.js)</a><br/>
+    <a href="https://stbhg5.tistory.com/1142">[실습] 컨테이너 기반 + 확장성을 고려한 프로젝트에서 많이 쓰는 CI/CD 구축 방법 (Nest.js)</a><br/>
     <a href=""></a><br/>
     <br/><br/>
